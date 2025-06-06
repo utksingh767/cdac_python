@@ -2,14 +2,14 @@
 
 Welcome! This repository contains notes, code examples, and assignment questions for the CDAC Python module at SM Vita.
 
-**Lead/Maintainer:** Harshal More ([[Your GitHub Profile Link](https://github.com/harshalmore31)])
+**Lead/Maintainer:** Harshal More ([[Link](https://github.com/harshalmore31)])
 
 ## How This Repository Works
 
 This repository is designed to help you learn Python and get comfortable with GitHub.
 
-1.  **Notes & Examples:** You'll find daily notes and code examples in the `course_content/Day_XX/` folders.
-2.  **Assignments:** Assignment questions are in `course_content/Day_XX/Assignments/README.md`.
+1.  **Notes & Examples:** You'll find daily notes and code examples in the `course_content/Python_Day_XX/` folders.
+2.  **Assignments:** Assignment questions are in `course_content/Python_Day_XX/Assignments/README.md`.
 3.  **Your Solutions:** You will **fork** this repository, add your solutions to your fork, and then inform the instructor.
 
 ## For Students: Getting Started & Submitting Assignments
@@ -38,19 +38,19 @@ Follow these steps carefully!
 **Phase 2: Daily Workflow for Assignments**
 
 1.  **Find the Assignment:**
-    *   In your local cloned folder, navigate to `course_content/Day_XX/Assignments/`.
+    *   In your local cloned folder, navigate to `course_content/Python_Day_XX/Assignments/`.
     *   Open the `README.md` in that folder to see the assignment questions.
 2.  **Create Your Solution File(s):**
-    *   Inside the `course_content/Day_XX/Assignments/solutions/` directory, create your Python file(s) for the assignment.
+    *   Inside the `course_content/Python_Day_XX/Assignments/solutions/` directory, create your Python file(s) for the assignment.
     *   *Example: `my_solution_day1_q1.py`*
 3.  **Add, Commit, and Push Your Work (to YOUR FORK):**
     *   Open your terminal/Git Bash *inside your cloned project folder*.
     *   Run these commands:
         ```bash
         # To stage your new/modified files for commit
-        git add course_content/Day_XX/Assignments/solutions/your_file_name.py
+        git add course_content/Python_Day_XX/Assignments/solutions/your_file_name.py
         # Or, to add everything in the solutions folder for that day:
-        # git add course_content/Day_XX/Assignments/solutions/
+        # git add course_content/Python_Day_XX/Assignments/solutions/
 
         # To commit your changes with a descriptive message
         git commit -m "Completed Day XX Assignment Question Y"
@@ -96,10 +96,10 @@ If I make updates to the main repository (e.g., add new notes or fix an assignme
 
 ## Directory Structure Overview
 
--   `/course_content/Day_XX/Notes/`: Daily theoretical notes.
--   `/course_content/Day_XX/Code/`: Python scripts demonstrating concepts.
--   `/course_content/Day_XX/Assignments/README.md`: Assignment questions.
--   `/course_content/Day_XX/Assignments/solutions/`: **This is where YOU add your assignment solution files in YOUR FORK.**
+-   `/course_content/Python_Day_XX/Notes/`: Daily theoretical notes.
+-   `/course_content/Python_Day_XX/Code/`: Python scripts demonstrating concepts.
+-   `/course_content/Python_Day_XX/Assignments/README.md`: Assignment questions.
+-   `/course_content/Python_Day_XX/Assignments/solutions/`: **This is where YOU add your assignment solution files in YOUR FORK.**
 -   `/General_Setup_and_Info/`: Guides for setting up Python, VSCode, Git, etc.
 
 ---
