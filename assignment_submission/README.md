@@ -40,8 +40,8 @@ Use GitHub Desktop or command line to save your work to your fork.
 ## 📋 Assignment Questions
 
 For assignment questions, check the course content:
-- **Day 1**: [course_content/Python_Day_1/Assignments/README.md](../course_content/Python_Day_1/Assignments/README.md)
-- **Day 2**: [course_content/Python_Day_2/Assignments/README.md](../course_content/Python_Day_2/Assignments/README.md)
+- **Day 1**: [course_content/Python_Day_1/Assignments](../course_content/Python_Day_1/Assignments/README.md)
+- **Day 2**: [course_content/Python_Day_2/Assignments](../course_content/Python_Day_2/Assignments/README.md)
 
 ## 💡 Tips
 
